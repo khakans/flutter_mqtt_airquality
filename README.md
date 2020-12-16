@@ -14,6 +14,6 @@ This project, use the Flutter and MQTT technology.
 
 Before running this application you should have a sensor module system, below.
 
-![diagram](https://raw.githubusercontent.com/khakans/kostan-weather-station-system/master/kws_diagram.png)
+![diagram](https://raw.githubusercontent.com/khakans/carbonmonoxide_mqtt/master/diagram_system.png)
 
 here is the source code for sensor module : https://github.com/khakans/carbonomonoxide_mqtt
