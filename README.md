@@ -4,6 +4,11 @@
 
 This is my personal project for mobile monitoring Carbon Monoxide Level in my Village. using ESP32 and MQ-7 Module.
 
+Feature :
+
+- Subscribe Mqtt Topic
+- You can save data sensor value to google Spreadsheets by click cloud button, config your own google spreadsheet API -> https://medium.com/mindorks/storing-data-from-the-flutter-app-google-sheets-e4498e9cda5d
+
 ![UI](https://raw.githubusercontent.com/khakans/flutter_mqtt_airquality/master/screenshot_flutter_mqtt_airquality.jpg)
 
 ## Depedencies
